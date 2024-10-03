@@ -1,24 +1,23 @@
-pandoc: 3.1.6.1
-pkgdown: 2.0.7.9000
-pkgdown_sha: c9206802f2888992de92aa41f517ba7812f05331
+pandoc: '3.4'
+pkgdown: 2.1.1.9000
+pkgdown_sha: 0cb9d38d1dc25946f01ee7500be9665985d8784e
 articles:
   additional: additional.html
-  faq: web_only/faq.html
-  ggbarstats: web_only/ggbarstats.html
-  ggbetweenstats: web_only/ggbetweenstats.html
-  ggcoefstats: web_only/ggcoefstats.html
-  ggcorrmat: web_only/ggcorrmat.html
-  ggdotplotstats: web_only/ggdotplotstats.html
-  gghistostats: web_only/gghistostats.html
-  ggpiestats: web_only/ggpiestats.html
-  ggscatterstats: web_only/ggscatterstats.html
+  web_only/faq: web_only/faq.html
+  web_only/ggbarstats: web_only/ggbarstats.html
+  web_only/ggbetweenstats: web_only/ggbetweenstats.html
+  web_only/ggcoefstats: web_only/ggcoefstats.html
+  web_only/ggcorrmat: web_only/ggcorrmat.html
+  web_only/ggdotplotstats: web_only/ggdotplotstats.html
+  web_only/gghistostats: web_only/gghistostats.html
+  web_only/ggpiestats: web_only/ggpiestats.html
+  web_only/ggscatterstats: web_only/ggscatterstats.html
   ggstatsplot: ggstatsplot.html
-  ggwithinstats: web_only/ggwithinstats.html
-  pairwise: web_only/pairwise.html
-  principles: web_only/principles.html
-  purrr_examples: web_only/purrr_examples.html
-last_built: 2023-08-21T03:32Z
+  web_only/ggwithinstats: web_only/ggwithinstats.html
+  web_only/pairwise: web_only/pairwise.html
+  web_only/principles: web_only/principles.html
+  web_only/purrr_examples: web_only/purrr_examples.html
+last_built: 2024-10-03T12:52Z
 urls:
   reference: https://indrajeetpatil.github.io/ggstatsplot/reference
   article: https://indrajeetpatil.github.io/ggstatsplot/articles
-
